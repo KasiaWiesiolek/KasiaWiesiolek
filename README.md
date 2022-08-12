@@ -29,10 +29,10 @@
 ## MY BUGS
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1lt5WiLqydgqYOdYfG356_oV2re9WIa-A/view?usp=sharing)
 ## MY REPORT
-* [PKP Report PDF](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
-* [PKP Report Excell](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
-* [VOD.tvp.pl Report PDF](https://docs.google.com/document/d/1FMitgBJCWtbAmE3K6xbiUJSBTmzKySdb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
-* [VOD.tvp.pl Report Excell](https://docs.google.com/spreadsheets/d/1C93amEbR8JbvJv0Wf8EzZ-z_zQcJCymt/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
+* [PKP Report](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
+* [PKP Report Excel](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
+* [VOD.tvp.pl Report](https://docs.google.com/document/d/1FMitgBJCWtbAmE3K6xbiUJSBTmzKySdb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
+* [VOD.tvp.pl Report Excel](https://docs.google.com/spreadsheets/d/1C93amEbR8JbvJv0Wf8EzZ-z_zQcJCymt/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 
 <!---
 KasiaWiesiolek/KasiaWiesiolek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
