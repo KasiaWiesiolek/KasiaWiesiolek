@@ -9,6 +9,7 @@
 * TestLink
 * GitHub
 * Trello
+* Miro
 ## TECH SKIILS
 * Software testing
 * Creating test cases
