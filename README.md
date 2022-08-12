@@ -27,7 +27,7 @@
 * [PKP](https://drive.google.com/file/d/1623lDwgiHpEKVoj8JSRFRS81lvB0X8b9/view?usp=sharing)
 * [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=sharing)
 ## MY BUGS
-* [PKP formularz zakupu bug](https://drive.google.com/file/d/1CHaiQJ3veoOehvbWDAuzFWp3u5O_N4Iy/view?usp=sharing)
+* [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1lt5WiLqydgqYOdYfG356_oV2re9WIa-A/view?usp=sharing)
 ## MY REPORT
 * [PKP Report PDF](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report Excell](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
