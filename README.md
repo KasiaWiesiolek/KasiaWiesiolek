@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Katarzyna Wiesiolek
 - 👀 I’m interested in software testing
-- 🌱 My goal is to develop my knowledge and skills in testing area. I am very motivated to become QA
-- 💞️ I would like to share here my gained experience
+- 🌱 My goal is to develop my knowledge and skills in testing area. I'm strongly motivated to become QA
+- 💞️ I would like to share here all my gained experience
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/katarzyna-wiesio%C5%82ek-8896a1247/)
 
 ## TOOLS
