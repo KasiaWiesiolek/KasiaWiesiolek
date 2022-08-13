@@ -1,9 +1,4 @@
-- 👋 Hi, my name is Katarzyna Wiesiolek
-- 👀 I’m interested in software testing
-- 🌱 My goal is to develop my knowledge and skills in testing area
-- 💞️ I would like to share here all my gained experience
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/katarzyna-wiesio%C5%82ek-8896a1247/)
-
+My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal is to develop my knowledge and technical skills in testing area. I would like to share here all my gained experience. You can reach me at [LinkedIn](https://www.linkedin.com/in/katarzyna-wiesio%C5%82ek-8896a1247/)
 ## TOOLS
 * Jira
 * TestLink
