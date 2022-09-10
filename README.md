@@ -34,7 +34,8 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [VOD.tvp.pl Report Excel](https://docs.google.com/spreadsheets/d/1C93amEbR8JbvJv0Wf8EzZ-z_zQcJCymt/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [WhatsApp Report](https://docs.google.com/document/d/1MyyjAlKLQ2czJPzuJmjet_L9PG8GVsMW/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [WhatsApp Report Excel](https://docs.google.com/spreadsheets/d/1Vzue3mnt9OufHI6LFAj40gZPvlXcIIN5/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
-
+* [ZnanyLekarz Report](https://docs.google.com/document/d/1kPy5A2SlakOhLJj2N-n2GNhjPk_Px-Sb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
+* [ZnanyLekarz Report Excel](https://docs.google.com/spreadsheets/d/1Js-xNdwt8iH-CcQmIk1weAQW-5asRiWA/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 <!---
 KasiaWiesiolek/KasiaWiesiolek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
