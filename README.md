@@ -23,6 +23,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [PKP](https://drive.google.com/file/d/1623lDwgiHpEKVoj8JSRFRS81lvB0X8b9/view?usp=sharing)
 * [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=sharing)
 * [WhatsApp](https://drive.google.com/file/d/1P9RLR28pbzQU0SdmaUadteljaywlOFBT/view?usp=sharing)
+* [ZnanyLekarz](https://drive.google.com/file/d/1eaZ6J5iYVIBXXuovpfnYKikNewGqwgoZ/view?usp=sharing)
 ## MY BUGS
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
