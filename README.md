@@ -2,6 +2,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 ## TOOLS
 * Jira
 * TestLink
+* SQL basics
 * GitHub
 * Trello
 * Miro
