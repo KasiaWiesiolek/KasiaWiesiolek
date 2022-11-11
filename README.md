@@ -28,6 +28,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 ## MY BUGS
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
+* [Jira - zgłoszenie formazycia bug - button](https://drive.google.com/file/d/1WOjIOGyEW8B3JQ9mcHkt82sIjvmd_xBb/view?usp=sharing) 
 ## MY REPORT
 * [PKP Report](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report Excel](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
