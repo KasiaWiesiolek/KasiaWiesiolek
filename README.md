@@ -21,16 +21,11 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY TEST CASE EXAMPLES
-* [PKP](https://drive.google.com/file/d/1623lDwgiHpEKVoj8JSRFRS81lvB0X8b9/view?usp=sharing)
-* [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=sharing)
-* [WhatsApp](https://drive.google.com/file/d/1P9RLR28pbzQU0SdmaUadteljaywlOFBT/view?usp=sharing)
-* [ZnanyLekarz](https://drive.google.com/file/d/1eaZ6J5iYVIBXXuovpfnYKikNewGqwgoZ/view?usp=sharing)
 ## MY BUGS
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
 * [Jira - zgłoszenie formazycia bug - button](https://drive.google.com/file/d/1WOjIOGyEW8B3JQ9mcHkt82sIjvmd_xBb/view?usp=sharing) 
-## MY REPORT
+## MY REPORTS
 * [PKP Report](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report Excel](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [VOD.tvp.pl Report](https://docs.google.com/document/d/1FMitgBJCWtbAmE3K6xbiUJSBTmzKySdb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
