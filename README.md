@@ -14,9 +14,9 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec - 2022 r.
 * Wordpress - Ewelina Muc - 2019 r.
 ## RECOMENDED BLOGS
+* http://cherry-it.pl/
 * wyszkolewas.com.pl
 * testerzy.pl
-* remigiuszbednarczyk.pl
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
