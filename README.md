@@ -2,22 +2,21 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 ## TOOLS
 * Jira
 * TestLink
-* SQL basics
-* GitHub
 * Trello
 * Miro
 ## TECH SKIILS
 * Software testing
 * Creating test cases
 * Reporting bugs
+* Basics of SQL
 ## COURSES
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec - 2022 r.
 * Wordpress - Ewelina Muc - 2019 r.
 ## RECOMENDED BLOGS
 * [cherry-it.pl](http://cherry-it.pl/)
-* jaktestowac.pl
-* wyszkolewas.com.pl
-* testerzy.pl
+* [jaktestowac.pl](https://jaktestowac.pl/)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [testerzy.pl](https://testerzy.pl/)
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
