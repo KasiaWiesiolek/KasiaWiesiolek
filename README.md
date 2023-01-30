@@ -20,9 +20,6 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [jaktestowac.pl](https://jaktestowac.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 * [testerzy.pl](https://testerzy.pl/)
-## GROUPS ON FACEBOOK
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES (MIND MAPS)
 * [PKP](https://drive.google.com/file/d/1623lDwgiHpEKVoj8JSRFRS81lvB0X8b9/view?usp=share_link)
 * [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=share_link)
