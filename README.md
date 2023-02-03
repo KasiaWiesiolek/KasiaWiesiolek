@@ -13,7 +13,9 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec 
 * Git dla Testerów - jaktestowac.pl
 * MySQL - pasja-informatyki.pl
-* SQL Tutorial - W3Schools 
+* SQL Tutorial - W3Schools
+* Introduction to HTML - Sololearn 
+* Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Wordpress - Ewelina Muc 
 ## RECOMENDED BLOGS
 * [cherry-it.pl](http://cherry-it.pl/)
