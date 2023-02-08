@@ -3,12 +3,13 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Jira
 * TestLink
 * Trello
+* Postman
 * Miro
 ## TECH SKIILS
 * Software testing
 * Creating test cases
 * Reporting bugs
-* SQL Basics
+* Basics: SQL/ HTML
 ## COURSES
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec 
 * Git dla Testerów - jaktestowac.pl
