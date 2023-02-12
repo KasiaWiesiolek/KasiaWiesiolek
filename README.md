@@ -9,7 +9,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Basics: SQL/ HTML + CSS
+* Basics: SQL, HTML + CSS
 ## COURSES
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec 
 * Git dla Testerów - jaktestowac.pl
