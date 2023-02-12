@@ -16,6 +16,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * MySQL - pasja-informatyki.pl
 * SQL Tutorial - W3Schools
 * Introduction to HTML - Sololearn 
+* Introduction to CSS - Sololearn 
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Wordpress - Ewelina Muc 
 ## RECOMENDED BLOGS
