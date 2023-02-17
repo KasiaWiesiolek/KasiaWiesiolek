@@ -20,9 +20,10 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Wordpress - Ewelina Muc 
 ## RECOMENDED BLOGS
-* [cherry-it.pl](http://cherry-it.pl/)
-* [jaktestowac.pl](https://jaktestowac.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [jaktestowac.pl](https://jaktestowac.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [cherry-it.pl](http://cherry-it.pl/)
 * [testerzy.pl](https://testerzy.pl/)
 ## MY REPORTS
 * [PKP Report](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
