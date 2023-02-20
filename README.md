@@ -10,6 +10,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Creating test cases
 * Reporting bugs
 * Basics: SQL, HTML + CSS
+* DevTools
 ## COURSES
 * Szkolenie indywidualne tester oprogramowania - Waldemar Szafraniec 
 * Git dla Testerów - jaktestowac.pl
@@ -18,6 +19,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Introduction to HTML - Sololearn 
 * Introduction to CSS - Sololearn 
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
+* Obsługa konsoli deweloperskiej - Adam Gola
 * Wordpress - Ewelina Muc 
 ## RECOMENDED BLOGS
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
