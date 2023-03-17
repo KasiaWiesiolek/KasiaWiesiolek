@@ -33,6 +33,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [ZnanyLekarz Report PL](https://docs.google.com/document/d/1kPy5A2SlakOhLJj2N-n2GNhjPk_Px-Sb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [ZnanyLekarz Report Excel PL](https://docs.google.com/spreadsheets/d/1Js-xNdwt8iH-CcQmIk1weAQW-5asRiWA/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 ## MY BUGS
+* [Jira - bug report - To-do list side menu](https://drive.google.com/file/d/1bkcK3Qrk7YusVGobzdtTs5kgbVBwDIa8/view?usp=sharing)
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
 * [Jira - zgłoszenie formazycia bug - button](https://drive.google.com/file/d/1WOjIOGyEW8B3JQ9mcHkt82sIjvmd_xBb/view?usp=sharing) 
