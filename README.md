@@ -22,6 +22,8 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Obsługa konsoli deweloperskiej - Adam Gola
 * Wordpress - Ewelina Muc 
 ## MY REPORTS
+* [To do list Report ENG](https://docs.google.com/document/d/1bEpK25OT7EViLIxK1tRtf1hOVzizTD8k/edit?usp=share_link&ouid=101831445860155568766&rtpof=true&sd=true) 
+* [To do list Excel ENG](https://docs.google.com/spreadsheets/d/1ke2eQfYJJSdvPu0b7mJxTHEXuKSGuydw/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report PL](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report Excel PL](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [VOD.tvp.pl Report PL](https://docs.google.com/document/d/1FMitgBJCWtbAmE3K6xbiUJSBTmzKySdb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
