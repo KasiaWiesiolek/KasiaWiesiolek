@@ -21,12 +21,6 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Obsługa konsoli deweloperskiej - Adam Gola
 * Wordpress - Ewelina Muc 
-## RECOMENDED BLOGS
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
-* [jaktestowac.pl](https://jaktestowac.pl/)
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-* [cherry-it.pl](http://cherry-it.pl/)
-* [testerzy.pl](https://testerzy.pl/)
 ## MY REPORTS
 * [PKP Report PL](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report Excel PL](https://docs.google.com/spreadsheets/d/1WI1ONSXuOKv5e_v8pjZ8SmFNK-5dAlkN/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
@@ -45,6 +39,12 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=share_link)
 * [WhatsApp](https://drive.google.com/file/d/1P9RLR28pbzQU0SdmaUadteljaywlOFBT/view?usp=share_link)
 * [ZnanyLekarz](https://drive.google.com/file/d/1eaZ6J5iYVIBXXuovpfnYKikNewGqwgoZ/view?usp=share_link)
+## RECOMENDED BLOGS
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [jaktestowac.pl](https://jaktestowac.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [cherry-it.pl](http://cherry-it.pl/)
+* [testerzy.pl](https://testerzy.pl/)
 <!---
 KasiaWiesiolek/KasiaWiesiolek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
