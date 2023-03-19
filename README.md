@@ -21,7 +21,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Obsługa konsoli deweloperskiej - Adam Gola
 * Wordpress - Ewelina Muc 
-## MY REPORTS
+## MY REPORTS EXAMPLES
 * [To do list Report ENG](https://docs.google.com/document/d/1bEpK25OT7EViLIxK1tRtf1hOVzizTD8k/edit?usp=share_link&ouid=101831445860155568766&rtpof=true&sd=true) 
 * [To do list Excel ENG](https://docs.google.com/spreadsheets/d/1ke2eQfYJJSdvPu0b7mJxTHEXuKSGuydw/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [PKP Report PL](https://docs.google.com/document/d/1svHp5fCaCSbKlnMDFcHKSU-BjYgnxEPS/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
@@ -32,7 +32,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [WhatsApp Report Excel PL](https://docs.google.com/spreadsheets/d/1Vzue3mnt9OufHI6LFAj40gZPvlXcIIN5/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [ZnanyLekarz Report PL](https://docs.google.com/document/d/1kPy5A2SlakOhLJj2N-n2GNhjPk_Px-Sb/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
 * [ZnanyLekarz Report Excel PL](https://docs.google.com/spreadsheets/d/1Js-xNdwt8iH-CcQmIk1weAQW-5asRiWA/edit?usp=sharing&ouid=101831445860155568766&rtpof=true&sd=true)
-## MY BUGS
+## MY BUGS EXAMPLES
 * [Jira - bug report - To-do list side menu](https://drive.google.com/file/d/1IsLIxZ-l2qNv_upnqYCpyx6-8peJ6js_/view?usp=sharing)
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
