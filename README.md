@@ -36,7 +36,6 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * [Jira - bug report - To-do list side menu](https://drive.google.com/file/d/1IsLIxZ-l2qNv_upnqYCpyx6-8peJ6js_/view?usp=sharing)
 * [Jira - zgłoszenie PKP bug - formularz zakupu](https://drive.google.com/file/d/1NF-qLUBmDLtpMIZnAvaJvx1Wd74QpWrO/view?usp=sharing)
 * [Jira - zgłoszenie WhatsApp bug - ViewOnce option](https://drive.google.com/file/d/1z70HfFZ4-PC4H-xOSR6rxmIsk6O7_gQp/view?usp=sharing)
-* [Jira - zgłoszenie formazycia bug - button](https://drive.google.com/file/d/1WOjIOGyEW8B3JQ9mcHkt82sIjvmd_xBb/view?usp=sharing) 
 ## MY TEST CASE EXAMPLES (MIND MAPS)
 * [VOD.tvp.pl](https://drive.google.com/file/d/1HRxpkAyc7JhHSV7Z-h37KINVWC8wi8Rf/view?usp=share_link)
 * [WhatsApp](https://drive.google.com/file/d/1P9RLR28pbzQU0SdmaUadteljaywlOFBT/view?usp=share_link)
