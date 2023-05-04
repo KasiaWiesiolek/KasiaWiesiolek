@@ -20,6 +20,7 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Introduction to CSS - Sololearn 
 * Postman - testowanie REST API - Udemy (Tester Oprogramowania)
 * Obsługa konsoli deweloperskiej - Adam Gola
+* UX Design & User Experience Design Course (Theory Only) - Daniel Walter Scott
 * Wordpress - Ewelina Muc 
 ## MY REPORTS EXAMPLES
 * [To do list Report ENG](https://docs.google.com/document/d/1bEpK25OT7EViLIxK1tRtf1hOVzizTD8k/edit?usp=share_link&ouid=101831445860155568766&rtpof=true&sd=true) 
