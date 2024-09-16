@@ -3,7 +3,6 @@ My name is Katarzyna Wiesiolek and I’m interested in software testing. My goal
 * Jira
 * TestLink
 * Trello
-* Postman
 * Miro
 ## TECH SKIILS
 * Software testing
