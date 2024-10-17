@@ -1,4 +1,4 @@
-My name is Katarzyna Wiesiolek and I’m interested in software testing and technical writing. My goal is to develop my knowledge and technical skills in the testing area. I would like to share here some of my gained experience.
+My name is Katarzyna Wiesiolek and I’m interested in software testing and technical writing. My goal is to develop my knowledge and technical skills. I would like to share here some of my gained experience.
 ## TOOLS
 * Jira
 * TestLink
